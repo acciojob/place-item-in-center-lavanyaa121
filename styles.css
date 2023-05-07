@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+p{
+	width:80%;
+	height:100%;
+	display:flex;
+	align-item:center;
+	justify-content:center;
+	
+}
